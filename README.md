@@ -5,6 +5,7 @@ Rock vs paper-> paper wins
 Rock vs scissor-> Rock wins
 paper vs scissor-> scissor wins.
 # Code Explanation:
+In this game, randint() inbuilt function is used for generating random integer values within the given range.
 The code starts by printing a message that states the rules of the game. 		
 The first line in the code prints “Rock vs paper->paper wins.”
 This is because if you have a rock, and you play against someone who has a piece of paper, the rock will beat the paper.
